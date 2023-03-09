@@ -1,0 +1,59 @@
+@import url(https://fonts.googleapis.com/css?family=Chewy);
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+form {
+	background-color: #dac17c;
+	text-align: center;
+	margin-left: 400px;
+	margin-right: 400px;
+	margin-top: -20px;
+	padding-bottom: 18px;
+	border-radius: 20px;
+}
+input[type="text"] {
+	background-color: white;
+	width: 40%;
+	border-color: lightgrey;
+	border-radius: 4px;
+	border-width: 1px;
+}
+button {
+	background-color: #b76b1e;
+	text-align: center;
+	font-family: "Raleway";
+	box-align: center;
+	color: white;
+	border-radius: 9px;
+	border-color: bisque;
+	border-width: 2px;
+	padding: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+h1 {
+	font-family: "Chewy";
+	color: #b76b1e;
+	font-size: large;
+	font-weight: lighter;
+	text-align: center;
+	font-size: 40px;
+}
+h2 {
+	font-family: "Raleway";
+	font-size: large;
+	font-weight: lighter;
+	text-align: center;
+	font-size: 22px;
+	padding-top: -20px;
+}
+.ent {
+	background-color: #e6b400;
+	text-align: center;
+	font-family: "Raleway";
+	font-weight: bold;
+	box-align: center;
+	color: white;
+	border-radius: 5px;
+	border-color: bisque;
+	border-width: 2px;
+	margin-top: 10px;
+}
